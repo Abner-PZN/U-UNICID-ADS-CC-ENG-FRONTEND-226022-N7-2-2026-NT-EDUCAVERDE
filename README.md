@@ -83,18 +83,24 @@ SEO Básico
 • Títulos únicos.
 • Meta descrição.
 • Hierarquia correta de títulos (h1, h2 e h3).
-6. Mapa do Site
- Index
- │
-┌────────┬────────┼────────┬─────────┐
-│ │ │ │ │
-Sobre Projetos Impacto Acessibilidade Galeria
-│ │ │
-│ │ └──────────────┐
-│ │ │
-Mídia Notícias Contato
- │
- Orçamento de Hospedagem
+## 6. Mapa do Site
+
+```mermaid
+flowchart TD
+    A[Index]
+
+    A --> B[Sobre]
+    A --> C[Projetos]
+    A --> D[Impacto]
+    A --> E[Acessibilidade]
+    A --> F[Galeria]
+
+    C --> G[Mídia]
+    C --> H[Notícias]
+
+    D --> I[Contato]
+    D --> J[Orçamento de Hospedagem]
+```
 Todas as páginas poderão ser acessadas pelo menu principal.
 7. Conteúdo e Identidade Visual
 Identidade
