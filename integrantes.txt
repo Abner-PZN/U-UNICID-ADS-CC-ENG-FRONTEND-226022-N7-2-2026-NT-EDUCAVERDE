@@ -1,0 +1,9 @@
+EducaVerde - Front-End para Web (A1 - 2ª entrega) - UNICID
+
+Integrantes:
+Abner Barbosa Machado - RA: [preencher]
+Kauã Freitas Passos Perroni - RA: [preencher]
+Luis Cauan Sena Rodrigues - RA: [preencher]
+
+Site publicado: Adicionar
+Repositório: https://github.com/Abner-PZN/U-UNICID-ADS-CC-ENG-FRONTEND-226022-N7-2-2026-NT-EDUCAVERDE
