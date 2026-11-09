@@ -1,0 +1,45 @@
+# Uso de Inteligência Artificial
+
+## Ferramentas usadas
+
+| Ferramenta | Para quê |
+|---|---|
+| Claude (Anthropic) | Revisão do projeto contra o roteiro da 2ª entrega, correções de HTML/CSS, JavaScript e rascunho da documentação |
+| _preencher (ex.: ChatGPT, Copilot)_ | _preencher, se usaram na 1ª entrega_ |
+
+## Regras que a equipe seguiu
+
+1. Todo código gerado por IA foi lido e testado pela equipe antes do commit.
+2. O JavaScript foi pedido com comentários em português, para que qualquer integrante consiga explicar cada parte.
+3. A IA não decide conteúdo factual: números, nomes e textos da ONG foram conferidos pela equipe.
+4. Nada de copiar código que ninguém sabe explicar (regra da disciplina).
+
+## Registro de prompts
+
+### Prompt 1 – revisão para a 2ª entrega (09/11/2026, Claude)
+
+**Prompt:** "Em anexo está o README de um trabalho da faculdade de Desenvolvimento Front-End, o repositório do que a gente fez e o que o professor pediu. Consegue visualizar e ajustar o que está errado?" (com o PDF do roteiro e o link do repositório)
+
+**O que a IA fez:**
+- Comparou o site com o roteiro e a rubrica e listou o que faltava.
+- Corrigiu o menu da `index.html`, os 6 erros do W3C e a hierarquia de títulos.
+- Reescreveu o `script.js` (validação, localStorage, menu mobile, alto contraste, filtro de notícias, EcoBot).
+- Criou a área de apoio/doações e o comparativo de deploy.
+- Testou tudo em navegador automatizado e gerou o rascunho da pasta `/docs`.
+
+**O que foi aceito:** _preencher (ex.: validação do formulário, menu mobile...)_
+
+**O que foi corrigido ou recusado pela equipe:**
+- A IA tinha reescrito os textos alternativos da galeria, mas desfez a mudança porque não conseguia ver as fotos; os `alt` originais da equipe foram mantidos.
+- _preencher: o que vocês mudaram depois de revisar_
+
+### Prompt 2 – _preencher_
+
+**Data / ferramenta:**
+**Prompt:**
+**Resultado aceito:**
+**O que foi corrigido:**
+
+## Sugestão recusada (para responder na banca)
+
+> _Preencher com um exemplo real. Exemplo possível: a IA sugeriu usar `alert()` para avisar o envio, mas a equipe preferiu uma mensagem na própria página (`role="status"`), que funciona melhor com leitor de tela._
