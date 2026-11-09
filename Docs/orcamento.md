@@ -6,9 +6,9 @@ A versão completa, com tabelas, está publicada em `Educaverde/orcamento_hosped
 
 | Plataforma | Custo | HTTPS | Integração com GitHub | Observação |
 |---|---|---|---|---|
-| **GitHub Pages (escolhida)** | Gratuito | Automático | Nativa | Site de até 1 GB e cerca de 100 GB de tráfego por mês |
+| GitHub Pages | Gratuito | Automático | Nativa | Site de até 1 GB e cerca de 100 GB de tráfego por mês |
 | Netlify | Plano gratuito | Automático | Sim | Exige conta e conexão em outro serviço |
-| Vercel | Plano gratuito | Automático | Sim | Pensada para frameworks; mais do que o necessário |
+| **Vercel (ESCOLHIDA)** | Plano gratuito | Automático | Sim | Pensada para frameworks; mais do que o necessário |
 | Railway | Créditos limitados | Automático | Sim | Voltada a aplicações com servidor |
 
 ## Justificativa da escolha
