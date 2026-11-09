@@ -4,19 +4,18 @@ Site educativo sobre sustentabilidade, inclusão e cidadania, desenvolvido para 
 
 | | |
 |---|---|
-| **Site publicado** | https://abner-pzn.github.io/U-UNICID-ADS-CC-ENG-FRONTEND-226022-N7-2-2026-NT-EDUCAVERDE/ |
+| **Site publicado** | Adicionar |
 | **Repositório** | https://github.com/Abner-PZN/U-UNICID-ADS-CC-ENG-FRONTEND-226022-N7-2-2026-NT-EDUCAVERDE |
 | **Tecnologias** | HTML5, CSS3 (Grid e Flexbox), JavaScript puro |
-| **Hospedagem** | GitHub Pages (HTTPS automático) |
+| **Hospedagem** | Adicionar |
 
 ## Equipe
 
 | Integrante | RA | Responsabilidade principal |
 |---|---|---|
-| Abner Barbosa Machado | _preencher_ | Estrutura HTML e repositório GitHub |
-| Kauã Freitas Passos Perroni | _preencher_ | Produção de conteúdo |
-| Luis Cauan Sena Rodrigues | _preencher_ | Desenvolvimento CSS |
-| Toda a equipe | | JavaScript, testes e validação |
+| Abner Barbosa Machado | _preencher_ | Produção de conteúdo e repositório GitHub |
+| Kauã Freitas Passos Perroni | 47749008 | Estrutura HTML e repositório GitHub |
+| Luis Cauan Sena Rodrigues | _preencher_ | Desenvolvimento CSS e JAVASCRIPT |
 
 ## Como rodar
 
