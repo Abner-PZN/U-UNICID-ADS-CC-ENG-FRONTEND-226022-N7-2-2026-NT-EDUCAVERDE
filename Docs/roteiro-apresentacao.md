@@ -2,7 +2,7 @@
 
 O tempo total é de 20 minutos: 10 de slides, 5 de demonstração e 5 de perguntas. O texto de fala de cada slide está nas **notas do apresentador** do deck.
 
-## Quem fala o quê (sugestão)
+## Quem fala o quê 
 
 | Integrante | Slides | Tempo aproximado |
 |---|---|---|
