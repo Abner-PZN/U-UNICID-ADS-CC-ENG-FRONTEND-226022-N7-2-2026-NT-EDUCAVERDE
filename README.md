@@ -4,10 +4,10 @@ Site educativo sobre sustentabilidade, inclusão e cidadania, desenvolvido para 
 
 | | |
 |---|---|
-| **Site publicado** | Adicionar |
+| **Site publicado** | (https://educaverde2.vercel.app/) |
 | **Repositório** | https://github.com/Abner-PZN/U-UNICID-ADS-CC-ENG-FRONTEND-226022-N7-2-2026-NT-EDUCAVERDE |
 | **Tecnologias** | HTML5, CSS3 (Grid e Flexbox), JavaScript puro |
-| **Hospedagem** | Adicionar |
+| **Hospedagem** | Vercel.app |
 
 ## Equipe
 
