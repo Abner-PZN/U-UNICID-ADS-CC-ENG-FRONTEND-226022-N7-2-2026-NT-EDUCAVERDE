@@ -13,7 +13,7 @@ Site educativo sobre sustentabilidade, inclusão e cidadania, desenvolvido para 
 
 | Integrante | RA | Responsabilidade principal |
 |---|---|---|
-| Abner Barbosa Machado | _preencher_ | Produção de conteúdo e repositório GitHub |
+| Abner Barbosa Machado | 46625402 | Produção de conteúdo e repositório GitHub |
 | Kauã Freitas Passos Perroni | 47749008 | Estrutura HTML e repositório GitHub |
 | Luis Cauan Sena Rodrigues | _preencher_ | Desenvolvimento CSS e JAVASCRIPT |
 
