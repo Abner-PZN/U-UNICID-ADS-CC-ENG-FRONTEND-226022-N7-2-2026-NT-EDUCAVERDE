@@ -108,11 +108,11 @@ HTML5, CSS3, JavaScript, Visual Studio Code, Git e GitHub (versionamento, branch
 
 | Etapa | Responsável |
 |---|---|
-| Estrutura HTML | Abner |
+| Estrutura HTML | Kauã e Abner |
 | Desenvolvimento CSS | Luis Cauan |
 | Produção do conteúdo | Kauã |
 | JavaScript | Toda a equipe |
-| Deploy no GitHub Pages | Abner |
+| Deploy no Vercel | Abner e Kauã |
 | Documentação (/docs) | Toda a equipe |
 | Testes e validação | Toda a equipe |
 
