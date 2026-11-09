@@ -69,6 +69,6 @@ Todos os links internos das 10 páginas foram verificados: **nenhum link quebrad
 
 | Teste | Resultado |
 |---|---|
-| Site abre com HTTPS no computador | _preencher_ |
-| Site abre com HTTPS no celular | _preencher_ |
-| As 10 páginas abrem pela URL publicada | _preencher_ |
+| Site abre com HTTPS no computador | Abre normalmente |
+| Site abre com HTTPS no celular | Abre normalmente |
+| As 10 páginas abrem pela URL publicada | Abre normalmente |
