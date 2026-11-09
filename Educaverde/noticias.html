@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícias | EducaVerde</title>
+    <meta name="description" content="Notícias e artigos sobre sustentabilidade e educação ambiental.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <header class="topbar">
+      <div class="container nav">
+        <a href="index.html" class="brand">
+          <span class="brand-mark" aria-hidden="true">E</span>
+          <span>EducaVerde</span>
+        </a>
+
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu-principal">
+          <span class="menu-toggle-icon" aria-hidden="true"></span>
+          <span class="menu-toggle-text">Menu</span>
+        </button>
+
+        <nav id="menu-principal" class="menu" aria-label="Menu principal">
+          <a href="index.html">Início</a>
+          <a href="sobre.html">Sobre</a>
+          <a href="projetos.html">Projetos</a>
+          <a href="impacto.html">Impacto</a>
+          <a href="acessibilidade.html">Acessibilidade</a>
+          <a href="galeria.html">Galeria</a>
+          <a href="midia.html">Mídia</a>
+          <a href="noticias.html" aria-current="page">Notícias</a>
+          <a href="contato.html">Contato</a>
+          <a href="orcamento_hospedagem.html">Orçamento</a>
+        </nav>
+
+        <div class="nav-actions">
+          <button class="contrast-toggle" type="button" aria-pressed="false" title="Ativar ou desativar alto contraste">
+            <svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 20 20"><circle cx="10" cy="10" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M10 1.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg>
+            <span class="sr-only">Alto contraste</span>
+          </button>
+          <a href="contato.html" class="btn btn-primary">Quero participar</a>
+        </div>
+      </div>
+    </header>
+
+    <main id="conteudo" tabindex="-1">
+      <section class="page-hero">
+        <div class="container narrow">
+          <span class="eyebrow">Notícias</span>
+          <h1>Conteúdos e atualizações sobre educação, meio ambiente e comunidade.</h1>
+          <p>Acompanhe os principais artigos, campanhas e histórias que estão inspirando mudanças positivas.</p>
+        </div>
+      </section>
+
+      <section class="content-section" aria-labelledby="titulo-noticias">
+        <div class="container">
+          <div class="section-heading">
+            <span class="eyebrow eyebrow-green">Publicações</span>
+            <h2 id="titulo-noticias">Últimas notícias</h2>
+          </div>
+
+          <div class="filter-bar" role="group" aria-label="Filtrar notícias por categoria">
+            <button type="button" class="filter-btn" data-filtro="todas" aria-pressed="true">Todas</button>
+            <button type="button" class="filter-btn" data-filtro="sustentabilidade" aria-pressed="false">Sustentabilidade</button>
+            <button type="button" class="filter-btn" data-filtro="educacao" aria-pressed="false">Educação</button>
+            <button type="button" class="filter-btn" data-filtro="comunidade" aria-pressed="false">Comunidade</button>
+            <button type="button" class="filter-btn" data-filtro="inovacao" aria-pressed="false">Inovação</button>
+          </div>
+          <p class="sr-only" id="filtro-status" aria-live="polite"></p>
+
+          <div class="news-grid">
+            <article class="news-card" data-categoria="sustentabilidade">
+              <span class="tag">Sustentabilidade</span>
+              <h3>Hortas comunitárias fortalecem vínculos e alimentação saudável</h3>
+              <p>Projetos locais têm contribuído para a educação ambiental e a promoção de hábitos mais sustentáveis.</p>
+              <p class="news-more" id="noticia-1-mais" hidden>Nas hortas da EducaVerde, estudantes e famílias aprendem compostagem, plantio e reaproveitamento de alimentos. Parte da colheita é doada para a merenda escolar e para famílias do bairro.</p>
+              <button class="link-button" type="button" aria-expanded="false" aria-controls="noticia-1-mais">Ler mais</button>
+            </article>
+            <article class="news-card" data-categoria="educacao">
+              <span class="tag">Educação</span>
+              <h3>Escolas ampliam a abordagem ambiental em sala de aula</h3>
+              <p>Novas metodologias estão conectando teoria, prática e consciência ambiental desde a base escolar.</p>
+              <p class="news-more" id="noticia-2-mais" hidden>Professores parceiros recebem planos de aula prontos sobre resíduos, água e energia, com versões em linguagem simples e materiais em formato acessível para estudantes com deficiência.</p>
+              <button class="link-button" type="button" aria-expanded="false" aria-controls="noticia-2-mais">Ler mais</button>
+            </article>
+            <article class="news-card" data-categoria="comunidade">
+              <span class="tag">Comunidade</span>
+              <h3>Movimentos locais inspiram ações em bairros e regiões periféricas</h3>
+              <p>Parcerias entre organizações, famílias e educadores têm ampliado o impacto de iniciativas comunitárias.</p>
+              <p class="news-more" id="noticia-3-mais" hidden>Mutirões de limpeza, oficinas de reciclagem e rodas de conversa aproximam moradores das escolas e transformam espaços públicos em pontos de encontro e aprendizado.</p>
+              <button class="link-button" type="button" aria-expanded="false" aria-controls="noticia-3-mais">Ler mais</button>
+            </article>
+            <article class="news-card" data-categoria="inovacao">
+              <span class="tag">Inovação</span>
+              <h3>Recursos digitais ajudam a levar educação ambiental para mais pessoas</h3>
+              <p>Materiais acessíveis e plataformas digitais ampliam o alcance de campanhas e conteúdos educativos.</p>
+              <p class="news-more" id="noticia-4-mais" hidden>Vídeos com legenda, áudios com transcrição e páginas compatíveis com leitores de tela permitem que mais pessoas, incluindo pessoas com deficiência visual ou auditiva, acompanhem os conteúdos.</p>
+              <button class="link-button" type="button" aria-expanded="false" aria-controls="noticia-4-mais">Ler mais</button>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <a href="index.html" class="brand footer-brand">
+            <span class="brand-mark" aria-hidden="true">E</span>
+            <span>EducaVerde</span>
+          </a>
+          <p>Educação que transforma pessoas e o planeta.</p>
+        </div>
+
+        <div>
+          <h2 class="footer-title">Contato</h2>
+          <ul>
+            <li><a href="mailto:contato@educaverde.org">contato@educaverde.org</a></li>
+            <li>(11) 4002-8922</li>
+            <li>São Paulo - SP</li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="footer-title">Links rápidos</h2>
+          <ul>
+            <li><a href="sobre.html">Sobre</a></li>
+            <li><a href="projetos.html">Projetos</a></li>
+            <li><a href="contato.html#apoie">Como apoiar</a></li>
+            <li><a href="acessibilidade.html">Acessibilidade</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="container footer-bottom">
+        <p>© 2026 EducaVerde - projeto acadêmico da disciplina Front-End para Web (UNICID). Organização fictícia.</p>
+        <p>Imagens: <a href="https://unsplash.com/" rel="noopener">Unsplash</a> (uso gratuito).</p>
+      </div>
+    </footer>
+      <script src="script.js"></script>
+  </body>
+</html>
