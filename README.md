@@ -17,6 +17,7 @@ Site educativo sobre sustentabilidade, inclusão e cidadania, desenvolvido para 
 | Kauã Freitas Passos Perroni | 47749008 | Estrutura HTML e repositório GitHub |
 | Luis Cauan Sena Rodrigues | 46835539 | Desenvolvimento CSS e JAVASCRIPT |
 | Denner Souza Silva | 047338164 | Desenvolvimento CSS e JAVASCRIPT |
+| Victor Silva Pimentel | 47787945 | Produção de conteúdo |
 
 ## Como rodar
 
