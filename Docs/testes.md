@@ -51,7 +51,7 @@ Todos os links internos das 10 páginas foram verificados: **nenhum link quebrad
 | `lang="pt-BR"` em todas as páginas | ✅ |
 | Lighthouse – Acessibilidade (versão local, 09/11/2026) | 100 (index, contato e notícias) |
 | Lighthouse – Desempenho / Boas práticas / SEO (versão local) | 100 / 96 / 100 |
-| Lighthouse no site publicado (Desktop) | Desempenho 80 · Acessibilidade 100 · Boas práticas 77 · SEO 100 |
+| Lighthouse no site publicado (Desktop) | Desempenho 92 · Acessibilidade 100 · Boas práticas 100 · SEO 100 |
 
 > O único item abaixo de 100 em boas práticas foi "erros no console", causado pelas imagens externas bloqueadas no ambiente de teste (sem internet). No site publicado esse item deve passar.
 
