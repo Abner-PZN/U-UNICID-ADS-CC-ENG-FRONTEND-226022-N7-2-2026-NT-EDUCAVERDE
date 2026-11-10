@@ -16,6 +16,7 @@ Site educativo sobre sustentabilidade, inclusão e cidadania, desenvolvido para 
 | Abner Barbosa Machado | 46625402 | Produção de conteúdo e repositório GitHub |
 | Kauã Freitas Passos Perroni | 47749008 | Estrutura HTML e repositório GitHub |
 | Luis Cauan Sena Rodrigues | 46835539 | Desenvolvimento CSS e JAVASCRIPT |
+| Denner Souza Silva | 047338164 | Desenvolvimento CSS e JAVASCRIPT |
 
 ## Como rodar
 
