@@ -4,7 +4,8 @@ Integrantes:
 Abner Barbosa Machado - RGM: [46625402]
 Kauã Freitas Passos Perroni - RGM: [47749008]
 Luis Cauan Sena Rodrigues - RGM: [46835539]
-Denner Souza Silva - RGM: [04733816-4]
+Denner Souza Silva - RGM: [047338164]
+Victor Silva Pimentel - RGM [47787945]
 
 Site publicado: https://educaverde2.vercel.app/
 Repositório: https://github.com/Abner-PZN/U-UNICID-ADS-CC-ENG-FRONTEND-226022-N7-2-2026-NT-EDUCAVERDE
