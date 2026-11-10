@@ -5,7 +5,7 @@
 | set/2026 | Toda a equipe | Escolha do tema (educação, sustentabilidade e inclusão), escrita do escopo e divisão de tarefas | Definir um tema que ligasse meio ambiente e inclusão. Solução: focar em educação, com pessoas com deficiência como público prioritário |
 | set/2026 | Abner | Estrutura HTML das 10 páginas | Manter a mesma estrutura em todas as páginas. Solução: montar uma página modelo e copiar para as outras |
 | set/2026 | Luis Cauan/Denner | CSS, layout com Grid e Flexbox e responsividade | Fazer o layout funcionar no celular. Solução: media queries que transformam as grades em uma coluna |
-| set/2026 | Kauã | Textos, imagens e conteúdo das páginas | Encontrar imagens gratuitas. Solução: usar o Unsplash, com crédito |
+| set/2026 | Kauã/Victor | Textos, imagens e conteúdo das páginas | Encontrar imagens gratuitas. Solução: usar o Unsplash, com crédito |
 | 05/10/2026 | Abner/Kauã | Criação do repositório no GitHub, upload dos arquivos e README com mapa do site | Primeira vez organizando o projeto no GitHub |
 | out/2026 | Toda a equipe | Entrega do MVP (.zip) | Ainda faltava JavaScript e havia erros no W3C, corrigidos na entrega final |
 | 09/11/2026 | Toda a equipe | Revisão com IA (Claude) a partir do roteiro da 2ª entrega: menu da index corrigido, 0 erros no W3C, JavaScript completo, área de apoio e pasta /docs. Ver [uso-de-ia.md](uso-de-ia.md) | Só 2 páginas carregavam o JS e a home usava âncoras no menu. Solução: cabeçalho e rodapé padronizados em todas as páginas |
