@@ -110,7 +110,7 @@ HTML5, CSS3, JavaScript, Visual Studio Code, Git e GitHub (versionamento, branch
 |---|---|
 | Estrutura HTML | Kauã e Abner |
 | Desenvolvimento CSS | Luis Cauan e Denner |
-| Produção do conteúdo | Kauã |
+| Produção do conteúdo | Kauã e Victor |
 | JavaScript | Toda a equipe |
 | Deploy no Vercel | Abner e Kauã |
 | Documentação (/docs) | Toda a equipe |
