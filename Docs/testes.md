@@ -65,8 +65,6 @@ Todos os links internos das 10 páginas foram verificados: **nenhum link quebrad
 
 ## 6. Testes no site publicado
 
-> **Equipe:** preencham depois de ativar o GitHub Pages.
-
 | Teste | Resultado |
 |---|---|
 | Site abre com HTTPS no computador | Abre normalmente |
