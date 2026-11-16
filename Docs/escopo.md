@@ -6,7 +6,7 @@
 - **Data:** setembro de 2026 (revisado em novembro de 2026 para a entrega final)
 - **Projeto:** EducaVerde – Educação que transforma pessoas e o planeta
 
-**Integrantes:** Abner Barbosa Machado, Kauã Freitas Passos Perroni, Luis Cauan Sena Rodrigues, Denner Souza Silva.
+**Integrantes:** Abner Barbosa Machado, Kauã Freitas Passos Perroni, Luis Cauan Sena Rodrigues, Denner Souza Silva e Victor Silva Pimentel.
 
 ## 1. Contexto e justificativa
 
