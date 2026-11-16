@@ -61,7 +61,7 @@ Não precisa instalar nada: o site é estático. Para testar como no servidor, v
 
 ## Documentação
 
-Veja a pasta [`docs/`](docs/): escopo, diário de bordo, orçamento, evidências de testes, melhorias desde o MVP e registro do uso de IA.
+Veja a pasta [`Docs/`](Docs/): escopo, diário de bordo, orçamento, evidências de testes, melhorias desde o MVP e registro do uso de IA.
 
 ## Créditos
 
